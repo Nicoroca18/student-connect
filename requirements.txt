@@ -1,3 +1,0 @@
-# Añade aquí las dependencias necesarias para StudentConnect
-# Example:
-requests>=2.28
