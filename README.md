@@ -1,8 +1,7 @@
 # StudentConnect
 
-Repository for `StudentConnect.py` — a small integration/sync script that connects data and services such as Mailchimp and FMCSA. This README explains how to set up, configure, run, and contribute to the project safely.
+Repository for `StudentConnect.py` — a small integration/sync script that connects data from different operators. This README explains how to set up, configure, run, and contribute to the project safely.
 
-> Important: Do NOT store secrets or production data in this repository. Use environment variables and GitHub Secrets for CI.
 
 ## Table of contents
 
@@ -192,13 +191,4 @@ If you need help with any of the following, open an issue or ping me in the repo
 - Creating CI that deploys to a target environment
 - Removing accidental secrets from git history
 
----
 
-If you want, I can now:
-
-- add a `CONTRIBUTING.md` file,
-- add a minimal GitHub Actions workflow file under `.github/workflows/ci.yml`,
-- create a small `scripts/run.py` runner that imports `StudentConnect.py` functions, or
-- add a test skeleton for `pytest`.
-
-Tell me which of those you want and I will create them.
