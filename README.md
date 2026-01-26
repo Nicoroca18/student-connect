@@ -1,4 +1,4 @@
-# Student Connect — Google Apps Script
+# Student Connect — Google Apps Script 
 
 Google Apps Script bound to a Google Spreadsheet that manages the lifecycle of eSIM and SIM lines across multiple countries (UK, Spain, France).
 
