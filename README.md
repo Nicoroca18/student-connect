@@ -19,7 +19,7 @@ The script integrates with carrier APIs, internal proxy services, Google Drive a
 - Supports activation, suspension, reactivation and duplication flows.
 
 ### France
-- Uses a proxy service to handle carrier-specific operations.
+- Uses a proxy service to handle carrier-specific operations. 
 - Distinguishes between physical SIM and eSIM flows.
 - eSIM activations rely on internal stock management and ticket-based confirmation.
 
