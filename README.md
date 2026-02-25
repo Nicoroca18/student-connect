@@ -100,7 +100,7 @@ Hardcoded credentials should not be committed.
 
 - The script is operated via spreadsheet rows and Apps Script functions.
 - Some maintenance tasks run via time-driven triggers.
-- Activations can be triggered manually for a specific row when required.
+- Activations can be triggered manually for a specific row when required. 
 
 ---
 
